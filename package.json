@@ -1,0 +1,28 @@
+{
+  "name": "redux-call-kit",
+  "version": "1.0.0",
+  "description": "use this library to make video or audio call",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badcodercpp/redux-call-kit.git"
+  },
+  "keywords": [
+    "webrtc",
+    "video",
+    "call",
+    "redux",
+    "react",
+    "react-native",
+    "video-chat"
+  ],
+  "author": "badcoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/badcodercpp/redux-call-kit/issues"
+  },
+  "homepage": "https://github.com/badcodercpp/redux-call-kit#readme"
+}
